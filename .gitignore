@@ -1,0 +1,24 @@
+# Jupyter Notebook checkpoints and autosaves
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.virtual_documents/
+
+# Python environment and cache tracking
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local environments (if you use virtual environments)
+venv/
+.venv/
+env/
+
+# Data and logs (prevents uploading massive local data dumps)
+*.csv
+*.xlsx
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
